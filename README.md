@@ -2,7 +2,7 @@
 ___
 ## Hi, i'm Konstantin. I'm novice back-end developer
 
-### I'm a novice back-end developer, I started writing code about a year ago. I know Python, I want to start learning C#, good luck to me!!
+### I'm a novice back-end developer, I started writing code about a year ago. I know Python, I want to start learning C#. I am interested in reverse engineering and software development, I want to start mastering ciber security. good luck to me!!
 
 ______
 
