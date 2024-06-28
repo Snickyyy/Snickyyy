@@ -19,7 +19,7 @@ ______
 
 ___
 
-### Follow me:
+### I'm in social networks:
 
 
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/snickyyy)
