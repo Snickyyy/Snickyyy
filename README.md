@@ -1,5 +1,5 @@
 ![Header](https://github.com/snickyyy/snickyyy/blob/main/assets/rr.gif)
-# Hi, i'm Konstantin. I'm novice back-end developer
+## Hi, i'm Konstantin. I'm novice back-end developer
 
 ### I'm a novice back-end developer, I started writing code about a year ago. I know Python, I want to start learning C#, good luck to me
 
