@@ -1,7 +1,8 @@
 ![Header](https://github.com/snickyyy/snickyyy/blob/main/assets/rr.gif)
+___
 ## Hi, i'm Konstantin. I'm novice back-end developer
 
-### I'm a novice back-end developer, I started writing code about a year ago. I know Python, I want to start learning C#, good luck to me
+### I'm a novice back-end developer, I started writing code about a year ago. I know Python, I want to start learning C#, good luck to me!!
 
 ______
 
@@ -17,4 +18,10 @@ ______
 ![ocr](https://img.shields.io/badge/-win32api-black?style=for-the-badge&logo=windows&logoColor=6296CC)
 
 ___
+
+### Follow me:
+
+
+[![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/snickyyy)
+[![discord](https://img.shields.io/badge/-discord-black?style=for-the-badge&logo=discord&logoColor=blue)](https://discordapp.com/users/994294160750293103/)
 
