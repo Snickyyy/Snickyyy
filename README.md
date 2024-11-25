@@ -26,9 +26,9 @@ ______
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,githubactions,github,gitlab,bootstrap,html,css,bash,docker,qt,git,pycharm,vscode,postgres,sqlite,redis,mongodb,api,&titles=true)
 
 
-![](https://github-readme-stats.vercel.app/api?username=snickyyy&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ortonikc&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snickyyy&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=snickyyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ortonikc&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snickyyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ---
 ### LeetCode statistic:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/snickyyy?theme=dark&font=Lexend%20Deca&ext=heatmap)
