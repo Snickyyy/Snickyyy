@@ -23,7 +23,7 @@ ______
 ![windows](https://img.shields.io/badge/-win32api-black?style=for-the-badge&logo=gears&logoColor=6296CC)
 ![django](https://img.shields.io/badge/-django-black?style=for-the-badge&logo=django&logoColor=4ca359)
 ![ci-cd](https://img.shields.io/badge/-django-black?style=for-the-badge&logo=&logoColor=4ca359) -->
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,flask,githubactions,github,gitlab,bootstrap,html,css,bash,docker,qt,git,pycharm,vscode,postgres,sqlite,redis,mongodb,api,&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,fastapi,githubactions,github,gitlab,bootstrap,html,css,bash,docker,qt,git,pycharm,vscode,postgres,sqlite,redis,mongodb,api,postman,&titles=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=snickyyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=snickyyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
