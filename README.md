@@ -27,7 +27,7 @@ ______
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=snickyyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=snickyyy&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ortonikc&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=snickyyy&theme=dark&hide_border=true)
 
 ---
 ### LeetCode statistic:
